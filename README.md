@@ -11,7 +11,7 @@ It is not sufficient to just fit a model - the model must be analysed to find th
 
 ## Objective
 
-The model must be analysed to find the important factors that contribute towards the sales price
+The model must be analysed to find the important factors that contribute towards the sales price.
 It will be better to give a forecast range(range of permissible values) rathar than a single estimate as it will help the customers to negotiate.
 
 ## Data Description
