@@ -74,3 +74,35 @@ MZZONE
 COMMIS -- The Commission paid to the agen
 
 SALES_PRICE-- The total sale price of the property
+
+## Project Overview
+   The ***RandomForest*** and ***XgBoost*** has better accuarcy score for the house price data set.
+   
+   Predict the house price range using XGBoost ML model.
+   
+   ### Sellers understand what factors are fetching more money for the Houses
+   
+   ***AREA***
+   
+    - Area is the Most important Feature for profitability,
+    - Area plays a crucial Role for deciding the best price of the houses.
+    - The area with more facilites will have higer price.
+    - The area with low facilites will have low price.
+    - In Chennai, T.Nagar has highest house price.
+    
+  ***BUILDTYPE***
+  
+    - Buildtype is the second most important Feature for better investments.
+    - Commercial Houses are most expensive compared to normal house.
+    - Commercial buildings are hospitals, shopping malls,stores,IT companies etc.,
+    - The investment of commercial building is more valuable than normal houses for the future profits.
+    
+ ***SQUARE FEET***
+ 
+    - As the square Footage of the house increases, the price of the house also increases.
+    - Square footage is essential for the viability of the investment.
+    
+ ***ZONE***
+ 
+     - Zone also plays a major role in deciding the house price.
+     - Commercial and Industrial zones are more profitable.
